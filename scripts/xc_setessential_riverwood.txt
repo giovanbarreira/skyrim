@@ -1,0 +1,16 @@
+setessential 0001348C 1 ; Alvor
+setessential 0001348D 1 ; Sigrid
+setessential 0001348E 1 ; Dorthe
+setessential 0001347A 1 ; Lucan Valerius
+setessential 0001347B 1 ; Camilla Valerius
+setessential 0001347F 1 ; Sven
+setessential 00013480 1 ; Faendal
+setessential 0001347E 1 ; Frodnar
+setessential 0001347C 1 ; Gerdur
+setessential 0001347D 1 ; Hod
+setessential 0002BF9D 1 ; Ralof
+setessential 0001E62A 1 ; Stump
+setessential 00013478 1 ; Delphine
+setessential 0003550B 1 ; Embry
+setessential 00013479 1 ; Orgnar
+setessential 00035533 1 ; Hilde

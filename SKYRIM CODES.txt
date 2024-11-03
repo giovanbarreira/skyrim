@@ -1,0 +1,312 @@
+********************************************************
+* Apply setav and setessential in my housecarls,       *
+* stewards and cool people in open villages.           *
+********************************************************
+
+FISHING POINTS================================
+Embershad Mine
+Half Moon Mill
+South Brittleshin Pass (another side of lake where is Half Moon Mill)
+
+RECIPES================================
+Chicken egg + nighshade = 196
+Salt Pile + deathbell = 150
+Salt Pile + Worms Head Cap = 377
+Vampire Dust + Nirnroot = 238
+Bleeding Crown + Tundra Cotton = 149
+Dragon Tongue + Fly Amanita = 183
+
+
+MATERIAL================================
+examplo: player.additem 5ace5 10
+AMBER		0c000bc6
+CHAURUS CHITIN	3ad57
+CLAY 		03003043
+CORUNDUM 	5ad93
+DRAGON BONE	3ada4
+DRAGON SCALES	3ada3
+DWARVEN		db8a2
+EBONY INGOT	5ad9d
+FIREWOOD 	6f993
+FLAWLESS AMETHYST 6851e
+FLAWLESS SAPPHIRE 68523
+GLASS		03005a69
+GOAT HORNS	0300303f
+GOLD INGOT	5ad9e
+GOLD ORE	5acde
+GRAND SOUL GEM	2e4ff
+IRON 		5ace4 
+LEATHER 	db5d2
+LEATHER STRIPS	800e4
+LOCKPICK	a
+MADNESS ORE	0c000bc9
+MAMMOTH TUSK	3ad6c
+MONEY 		f
+ORICHALCUM	5ad99
+QUARRIED STONE 	0300306c
+QUICKSILVER	5ada0
+REF. AMBER	0c000bc7
+REF. MALACHITE	5ada1
+REF. MOONSTONE 	5ad9f
+SAWN LOG	0300300e
+SILVER		5ace3
+STEEL 		5ace5
+STRAW		03005a68
+
+AMULETS==================================
+Amulet of Akatosh	000C8911
+Amulet of Arkay		000CC848
+Amulet of Dibella	000C8915
+Amulet of Julianos	000C8917
+Amulet of Kynareth	000C8919
+Amulet of Mara		000C891B
+Amulet of Stendarr	000CC844
+Amulet of Talos		000CC846
+Amulet of Zenithar	000878BB
+
+INGREDIENTS==============================
+DAEDRA HEART	3ad5b
+DEATHBELL	516C8
+FIRE SALT	3ad5e
+FISH - ALL	030008ef
+JAZBAY GRAPES	6ac4a
+MAMMOTH TUSK	3ad6c
+NIGHTSHADE	2f44c
+NIRNROOT 	59B86
+
+POTIONS =================================
+ULTIMATE HEALING 	39be5
+ULTIMATE MAGICKA	39be7
+BLACKSMITH ELIXIR	39967
+ENCHANTER ELIXIR	39d12
+CURE DISEASE		ae723
+
+JEWELRY=======================================
+Necklace Peerless Smithing	10df26
+Ring Peerless Smithing		100e40
+Necklace Peerless Magicka	10df56
+Ring of Recharging		100e59
+Necklace of Regeneration	10df59
+Necklace of Peerless Health	fc03c
+Silver Necklace			9171B
+Silver Ring			3b97c
+
+CLOTHES==================================
+GLOVES				261c1
+HAT				330b3
+SMITH				5b69f
+MASTER DESTRUCTION & ALTERATION fe00982c
+ADEPT HOOD			0010dd3c
+Steel Boots of Muffling		92a75
+
+WEAPONS==================================
+Poacher's Axe		ae086
+
+BOOKS====================================
+Last Scabbard of Akrash		1afcf
+Song of the alchemists		1afc6
+
+SPELL TOMES==============================
+Spell Tome: Ash Rune DR	XX0177B5
+Spell Tome: Ash Shell DR	XX0177AC
+Spell Tome: Bane of the Undead	000DD647
+Spell Tome: Banish Daedra	000A26EE
+Spell Tome: Blizzard	000A270D
+Spell Tome: Bound Battleaxe	000A26ED
+Spell Tome: Bound Bow	000A26F1
+Spell Tome: Bound Dagger DR	XX01CE07
+Spell Tome: Bound Sword	0009E2A9
+Spell Tome: Call To Arms	000A271B
+Spell Tome: Calm	000A2711
+Spell Tome: Candlelight	0009E2A7
+Spell Tome: Chain Lightning	000A2708
+Spell Tome: Circle Of Protection	000A2728
+Spell Tome: Clairvoyance	000FF7D1
+Spell Tome: Close Wounds	0010F64D
+Spell Tome: Command Daedra	000A26F6
+Spell Tome: Conjure Ash Guardian DR	XX01AABA
+Spell Tome: Conjure Ash Spawn DR	XX01E2B1
+Spell Tome: Conjure Boneman DG	XX0045B0
+Spell Tome: Conjure Dremora Lord	0010FD60
+Spell Tome: Conjure Familiar	0009E2AB
+Spell Tome: Conjure Flame Atronach	000A26EC
+Spell Tome: Conjure Flaming Familiar	000B45F7
+Spell Tome: Conjure Frost Atronach	000A26EF
+Spell Tome: Conjure Mistman DG	XX0045B1
+Spell Tome: Conjure Seeker DR	XX033C67
+Spell Tome: Conjure Storm Atronach	000A26F0
+Spell Tome: Conjure Wrathman DG	XX0045B2
+Spell Tome: Courage	0009E2AD
+Spell Tome: Dead Thrall	000A26F9
+Spell Tome: Detect Life	000A26E7
+Spell Tome: Detect Dead	000A26EA
+Spell Tome: Dragonhide	000D2B4E
+Spell Tome: Dread Zombie	000A26F7
+Spell Tome: Ebonyflesh	000A26E9
+Spell Tome: Equilibrium	000F4997
+Spell Tome: Expel Daedra	000A26F8
+Spell Tome: Fast Healing	000A271D
+Spell Tome: Fear	000A2712
+Spell Tome: Fire Rune	000A2700
+Spell Tome: Fire Storm	000A270C
+Spell Tome: Fireball	000A2706
+Spell Tome: Firebolt	000A26FD
+Spell Tome: Flame Cloak	000A2703
+Spell Tome: Flame Thrall	000A26FA
+Spell Tome: Flames	0009CD51
+Spell Tome: Frenzy	000A2714
+Spell Tome: Frenzy Rune DR	XX0177BD
+Spell Tome: Frost Cloak	000A2704
+Spell Tome: Frost Rune	000A2701
+Spell Tome: Frost Thrall	000A26FB
+Spell Tome: Frostbite	0009CD52
+Spell Tome: Fury	0009E2AC
+Spell Tome: Grand Healing	000DD643
+Spell Tome: Greater Ward	000A2722
+Spell Tome: Guardian Circle	000FDE7B
+Spell Tome: Harmony	000A271A
+Spell Tome: Heal Other	000A2727
+Spell Tome: Heal Undead DG	XX00E8D6
+Spell Tome: Healing	0009E2AF
+Spell Tome: Healing Hands	000A271E
+Spell Tome: Hysteria	000A271C
+Spell Tome: Ice Spike	000A26FE
+Spell Tome: Ice Storm	000A2707
+Spell Tome: Icy Spear	0010F7F3
+Spell Tome: Incinerate	0010F7F4
+Spell Tome: Invisibility	000A2715
+Spell Tome: Ironflesh	000A26E4
+Spell Tome: Lesser Ward	0009E2AE
+Spell Tome: Lightning Bolt	000A26FF
+Spell Tome: Lightning Cloak	000A2705
+Spell Tome: Lightning Rune	000A2702
+Spell Tome: Lightning Storm	000A270E
+Spell Tome: Magelight	000A26E2
+Spell Tome: Mass Paralysis	000DD646
+Spell Tome: Mayhem	000A2719
+Spell Tome: Muffle	000A270F
+Spell Tome: Necromantic Healing DG	XX00E8D5
+Spell Tome: Oakflesh	0009E2A8
+Spell Tome: Pacify	000A2717
+Spell Tome: Paralyze	000A26E8
+Spell Tome: Poison Rune DR	XX020685
+Spell Tome: Raise Zombie	0009E2AA
+Spell Tome: Rally	000A2713
+Spell Tome: Reanimate Corpse	000A26EB
+Spell Tome: Repel Lesser Undead	000A2725
+Spell Tome: Repel Undead	000A2726
+Spell Tome: Revenant	000A26F2
+Spell Tome: Rout	000A2718
+Spell Tome: Soul Trap	0009CD54
+Spell Tome: Sparks	0009CD53
+Spell Tome: Spectral Arrow	000B3165
+Spell Tome: Steadfast Ward	000A2720
+Spell Tome: Stendarr's Aura DG	XX003F4E
+Spell Tome: Stoneflesh	000A26E3
+Spell Tome: Storm Thrall	000A26FC
+Spell Tome: Sun Fire DG	XX003F51
+Spell Tome: Telekinesis	000A26E5
+Spell Tome: Thunderbolt	0010F7F5
+Spell Tome: Transmute Mineral Ore	00109112
+Spell Tome: Turn Greater Undead	000A2729
+Spell Tome: Turn Lesser Undead	000A271F
+Spell Tome: Turn Undead	000A2721
+Spell Tome: Vampire's Bane DG	XX003F4D
+Spell Tome: Wall of Flames	000A2709
+Spell Tome: Wall of Frost	000A270A
+Spell Tome: Wall of Storms	000A270B
+Spell Tome: Waterbreathing	000A26E6
+Spell Tome: Whirlwind Cloak DR	XX0177AD
+
+GENERAL COMMANDS =========================
+SELECIONAR NPC
+prid númeroDoNpc(REFID) (or click on the npc in console mode)
+
+REVIVING NPC
+resurrect
+
+RESET NPC
+recycleactor
+
+
+DECORAR CASAS ORIGINAIS VIA CONSOLE
+e25d4.enable (ou disable, ver houses no uesp)
+Proudspare Manor
+quarto do housecarl	e25d4
+
+MUDAR O LIMITE DE CARREGAMENTO
+player.setav CarryWeight 1500
+
+TRAZER O NPC PARA VOCÊ
+(selecionar o npc) moveto player
+
+IR PARA A LOCALIZAÇÃO DE UM NPC (RefID)
+exemplo: player.moveto 74340
+Ri'saad		74340
+Meeko		d95ea
+
+SE A ÁRVORE DE WHITERUN NÃO APARECER CORRETAMENTE A MUDA
+prid 00046360 followed by disable. (árvore seca)
+prid 46284 followed by enable.  (aparece a mudinha)
+
+TERMINAR UMA SUBTASK DE UMA QUEST COM COMANDO (OU A QUEST TODA COM 100?)
+setstage id stage
+setstage WIAddItem07 100 (bring a dwarven artefact to Calcelmo)
+player.setobjectivecompleted favorjarlsmakefriends 30 1 (Assist the People of Haafingar 5/5)
+
+TALK TO THE JARL OF FALKREATH
+ setstage BYOHHouseFalkreath 17
+
+VER DETALHES SOBRE AS CASAS
+sqv byohhousepale
+sqv byohhousefalkreath
+sqv byohhousehjaalmarch
+
+VER O INVENTÁRIO DO NPC
+showinventory
+
+SETESSENTIAL IN NPCS==================================================
+setessential NPC_BASEID 1
+
+To check setessential:
+IsEssential (click on the NPC before run the command, essential NPC return 1)
+or
+*rodar o comando abaixo e ver se o NPC morre ou fica cansado:
+damageactorvalue health 999 (click no NPC antes)
+
+Mathies		1364e
+Perth		1996c
+Tuthul		1996d
+
+HALF-MOON MILL
+Hert		1367C
+
+Eldergleam Sanctuary
+Sond		15cc4
+Asta		15d2b
+
+Lakeview Manor
+Dun		300f9a8
+Rayya		3005215
+Llewellyn	3018de0
+Gunjar		30032b0
+
+Blind Cliff Bastion
+Melka		39b3e
+
+Darklight Tower	
+Illia		48c2f
+
+Markarth
+Ghorza		1339a
+
+Riverwood Population
+bat xc_setessential_riverwood
+
+
+REFERENCES===========================================
+General commands
+https://en.uesp.net/wiki/Skyrim:Console
+
+TO DO ===============================================
+Organize this file.

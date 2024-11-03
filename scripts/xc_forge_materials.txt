@@ -1,0 +1,8 @@
+player.additem db5d2 5000 ; LEATHER
+player.additem 800e4 5000 ; LEATHER STRIPS
+player.additem 5ace4 5000 ; IRON 
+player.additem 5ace5 5000 ; STEEL 
+player.additem db8a2 5000 ; DWARVEN
+player.additem 5ad99 5000 ; ORICHALCUM
+player.additem 5ad9d 5000 ; EBONY INGOT
+player.additem 3ad5b 5000 ; DAEDRA HEART
