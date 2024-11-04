@@ -1,0 +1,16 @@
+; Battle-Born Farm
+setessential 00013BB0 1 ; Alfhild Battle-Born
+setessential 00013BB3 1 ; Bergritte Battle-Born
+setessential 00013BB4 1 ; Olfrid Battle-Born
+
+; Chillfurrow Farm
+setessential 00013BBF 1 ; Nazeem
+setessential 00013BBE 1 ; Ahlam
+
+; Pelagia Farm
+setessential 0002C925 1 ; Severio Pelagia
+setessential 0002C926 1 ; Nimriel
+
+; Honningbrew Meadery
+setessential 0002BA8C 1 ; Sabjorn
+setessential 0002BA8E 1 ; Mallus Maccius

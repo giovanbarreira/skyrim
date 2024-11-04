@@ -1,0 +1,26 @@
+; Falkreath Residents
+; Corpselight Farm
+setessential 0001364E 1 ; Mathies
+setessential 0001364F 1 ; Indara Caerellia
+; Dead Man's Drink
+setessential 00072663 1 ; Delacourt
+setessential 00013654 1 ; Narri
+setessential 00013655 1 ; Valga Vinicia
+; Dengeir's House
+setessential 0001365A 1 ; Dengeir of Stuhn
+setessential 00013656 1 ; Tekla
+setessential 0004E5E9 1 ; Thadgeir
+; Grave Concoctions
+setessential 0003A19A 1 ; Zaria
+; Gray Pine Goods
+setessential 00013651 1 ; Bolund
+setessential 00013652 1 ; Solaf
+; Hall of the Dead
+setessential 0001364C 1 ; Kust
+setessential 0001364D 1 ; Runil
+; Jarl's Longhouse
+setessential 00013657 1 ; Helvard
+setessential 00013653 1 ; Jarl Siddgeir
+setessential 00013659 1 ; Nenya
+; Lod's House
+setessential 00013650 1 ; Lod

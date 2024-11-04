@@ -255,7 +255,7 @@ setstage WIAddItem07 100 (bring a dwarven artefact to Calcelmo)
 player.setobjectivecompleted favorjarlsmakefriends 30 1 (Assist the People of Haafingar 5/5)
 
 TALK TO THE JARL OF FALKREATH
- setstage BYOHHouseFalkreath 17
+setstage BYOHHouseFalkreath 17
 
 VER DETALHES SOBRE AS CASAS
 sqv byohhousepale
@@ -274,7 +274,7 @@ or
 *rodar o comando abaixo e ver se o NPC morre ou fica cansado:
 damageactorvalue health 999 (click no NPC antes)
 
-Mathies		1364e
+Soljund's Sinkhole
 Perth		1996c
 Tuthul		1996d
 
@@ -300,13 +300,24 @@ Illia		48c2f
 Markarth
 Ghorza		1339a
 
+
+MY SCRIPTS FOR =========================
 Riverwood Population
 bat xc_setessential_riverwood
 
+Out of Whiterun
+bat xc_setessential_out_whiterun
+
+Falkreath
+bat xc_setessential_falkreath
+
+Ghorza
+bat xc_gorzha_clothes
 
 REFERENCES===========================================
 General commands
 https://en.uesp.net/wiki/Skyrim:Console
 
 TO DO ===============================================
+Translate this file into English.
 Organize this file.

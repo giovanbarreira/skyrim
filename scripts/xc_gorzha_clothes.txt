@@ -1,0 +1,10 @@
+prid 19906 ;
+removeallitems
+additem 00086990 1 ; Fine Clothes
+additem 00086991 1 ; Fine Boots
+additem 00016730 1 ; Gold and Emerald Circlet
+additem 0001398D 1 ; Orcish Dagger
+equipitem 00086990 ;
+equipitem 00086991 ;
+equipitem 00016730 ;
+equipitem 0001398D ;
