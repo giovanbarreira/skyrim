@@ -7,10 +7,15 @@ FISHING POINTS================================
 Embershad Mine
 Half Moon Mill
 South Brittleshin Pass (another side of lake where is Half Moon Mill)
+Robber's Gorge, above and to the left, in a T formation in the river.
+Chillwind Depths
+Deep Folk Crossing
+Reachwater Rock
 
 RECIPES================================
 Chicken egg + nighshade = 196
 Salt Pile + deathbell = 150
+Salt Pile + garlic = 139
 Salt Pile + Worms Head Cap = 377
 Vampire Dust + Nirnroot = 238
 Bleeding Crown + Tundra Cotton = 149
@@ -20,12 +25,16 @@ Dragon Tongue + Fly Amanita = 183
 MATERIAL================================
 examplo: player.additem 5ace5 10
 AMBER		0c000bc6
+BENT DWEMER 
+SCRAP METAL 	c886c
 CHAURUS CHITIN	3ad57
 CLAY 		03003043
 CORUNDUM 	5ad93
 DRAGON BONE	3ada4
 DRAGON SCALES	3ada3
 DWARVEN		db8a2
+DWEMER SCRAP
+METAL		c886a''
 EBONY INGOT	5ad9d
 FIREWOOD 	6f993
 FLAWLESS AMETHYST 6851e
@@ -105,6 +114,7 @@ Poacher's Axe		ae086
 BOOKS====================================
 Last Scabbard of Akrash		1afcf
 Song of the alchemists		1afc6
+Night Falls on Sentinel		1AFE4
 
 SPELL TOMES==============================
 Spell Tome: Ash Rune DR	XX0177B5
@@ -218,7 +228,39 @@ Spell Tome: Wall of Storms	000A270B
 Spell Tome: Waterbreathing	000A26E6
 Spell Tome: Whirlwind Cloak DR	XX0177AD
 
+SKILL COMMANDS =========================
+player.setav SKILL #
+Example: 
+player.setav smithing 		100 (level)
+player.setav speechcraft	100 (level)
+
+player.AdvSkill <skill> <#>
+Example:
+player.AdvSkill speechcraft 1914 (add xp)
+
+Alchemy: alchemy
+Alteration: alteration
+Archery: marksman
+Block: block
+Conjuration: conjuration
+Destruction: destruction
+Enchanting: enchanting
+Heavy Armor: heavyarmor
+Illusion: illusion
+Light Armor: lightarmor
+Lockpicking: lockpicking
+One-Handed: onehanded
+Pickpocket: pickpocket
+Restoration: restoration
+Smithing: smithing
+Sneak: sneak
+Speech: speechcraft
+Two-Handed: twohanded
+
 GENERAL COMMANDS =========================
+GOD MODE
+tgm
+
 SELECIONAR NPC
 prid númeroDoNpc(REFID) (or click on the npc in console mode)
 
@@ -317,6 +359,7 @@ bat xc_gorzha_clothes
 REFERENCES===========================================
 General commands
 https://en.uesp.net/wiki/Skyrim:Console
+https://elderscrolls.fandom.com/wiki/Console_Commands_(Skyrim)/Skills
 
 TO DO ===============================================
 Translate this file into English.
