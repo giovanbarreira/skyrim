@@ -1,0 +1,14 @@
+; Base ID
+; Karthwasten
+; Enmon's House
+setessential 00013B6C 1 ;Enmon
+setessential 00013B6D 1 ;Mena
+; Karthwasten Hall
+setessential 00013B69 1 ;Ainethach
+; Miner's Barracks
+setessential 00013B6B 1 ;Belchimac
+;setessential FExxx81A 1 ;Josla CC
+setessential 00013B6E 1 ;Lash gra-Dushnikh
+setessential 00013B6A 1 ;Ragnar
+; Sanuarach Mine
+;setessential 0001996C 1 ;Atar

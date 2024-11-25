@@ -5,17 +5,26 @@
 
 FISHING POINTS================================
 Embershad Mine
+Anga's Mill
 Half Moon Mill
+Mixwater Mill
 South Brittleshin Pass (another side of lake where is Half Moon Mill)
 Robber's Gorge, above and to the left, in a T formation in the river.
 Chillwind Depths
 Deep Folk Crossing
 Reachwater Rock
+Riverside Shack
+Bronze water cave
+
+Riverwood
+Markarth
+Riften
 
 RECIPES================================
 Chicken egg + nighshade = 196
 Salt Pile + deathbell = 150
 Salt Pile + garlic = 139
+Salt Pile + dwarven oil = 181
 Salt Pile + Worms Head Cap = 377
 Vampire Dust + Nirnroot = 238
 Bleeding Crown + Tundra Cotton = 149
@@ -353,8 +362,20 @@ bat xc_setessential_out_whiterun
 Falkreath
 bat xc_setessential_falkreath
 
+Largashbur
+bat xc_setessential_largashbur
+
+Out of Riften
+bat xc_setessential_out_riften
+
+Soljund's Sinkhole
+bat xc_setessential_soljunds
+
+Karthwasten
+bat xc_setessential_karthwasten
+
 Ghorza
-bat xc_gorzha_clothes
+bat xc_gorzha_clothes (not working properly)
 
 REFERENCES===========================================
 General commands
@@ -364,3 +385,4 @@ https://elderscrolls.fandom.com/wiki/Console_Commands_(Skyrim)/Skills
 TO DO ===============================================
 Translate this file into English.
 Organize this file.
+Create a script to setessential to all orc cities and to out of Marcarth, Morthal... 

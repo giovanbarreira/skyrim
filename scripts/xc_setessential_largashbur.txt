@@ -1,0 +1,7 @@
+; Largashbur
+setessential 00019E18 1 ; Atub
+setessential 00019E1C 1 ; Garakh
+setessential 00019E20 1 ; Gularzob
+setessential 00019E1E 1 ; Lob
+setessential 00019E22 1 ; Ogol
+setessential 00019E1A 1 ; Ugor

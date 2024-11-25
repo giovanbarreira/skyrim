@@ -1,0 +1,3 @@
+; Soljund's Sinkhole
+setessential 0001996C 1 ;Perth
+setessential 0001996D 1 ;Tuthul
